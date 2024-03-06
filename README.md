@@ -2,6 +2,9 @@
 
 I'm sol !
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyssoi&layout=compact&theme=onedark)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyssoi&show_icons=true&theme=radical)
 <!--
 **lyssoi/lyssoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
