@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=180&text=안녕하세요,%20정솔입니다%20&fontAlignY=36&fontColor=ffffff&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=180&text=Hi%20there,%20I'm%20Sol&fontAlignY=36&fontColor=ffffff&fontSize=40)
 
 <div align= "center">
     </div>
