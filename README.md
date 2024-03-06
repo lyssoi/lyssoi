@@ -29,5 +29,5 @@
     </div>
 
 
-    [![Leetcode Stats](https://leetcard.jacoblin.cool/lyssoi)](https://leetcode.com/lyssoi)
+![LeetCode Stats](https://leetcard.jacoblin.cool/lyssoi?theme=light&font=Baloo%20Tammudu%202)
 
