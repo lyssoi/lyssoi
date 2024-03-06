@@ -2,7 +2,7 @@
 
 I'm sol !
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20👋%20I'm%20Sol&fontAlign=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Sol&fontAlign=70&fontColor=ffffff)
 
 **lyssoi/lyssoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
