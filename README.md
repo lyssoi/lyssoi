@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=180&text=Hi%20there,%20I'm%20Sol&fontAlignY=36&fontColor=ffffff&fontSize=40)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/lyssoi"
+  width="600"
+  height="300"
+/>
+</a>
+
 <div align= "center">
     </div>
     <div style="text-align: left;"> 
